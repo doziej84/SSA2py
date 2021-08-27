@@ -6,4 +6,6 @@
 ## Home of SSA2py: Source Scanning Algorithm in Python
 Source code will be available soon.
 
+Until then!
+
 <!-- SSA2py: Source Scanning Algorithm in Python -->
